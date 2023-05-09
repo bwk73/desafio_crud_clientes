@@ -1,0 +1,10 @@
+INSERT INTO tb_user (birth_date, children, cpf, income, name) VALUES ('1987-12-13', 4, '392456023-26', 20250.0, 'Carlo Pianta');
+INSERT INTO tb_user (birth_date, children, cpf, income, name) VALUES ('1973-01-22', 2, '392084302-00', 13340.0, 'Frank Jorge');
+INSERT INTO tb_user (birth_date, children, cpf, income, name) VALUES ('1984-10-09', 2, '098234521-76', 5250.0, 'Alexandre Birck');
+INSERT INTO tb_user (birth_date, children, cpf, income, name) VALUES ('1999-07-17', 0, '930251883-44', 3250.0, 'Marcelo Birck');
+INSERT INTO tb_user (birth_date, children, cpf, income, name) VALUES ('2003-04-05', 0, '092345287-09', 3000.0, 'Fughetti Luz');
+INSERT INTO tb_user (birth_date, children, cpf, income, name) VALUES ('1991-03-11', 3, '034256187-83', 10900.0, 'Julio Reny');
+INSERT INTO tb_user (birth_date, children, cpf, income, name) VALUES ('1987-11-25', 0, '989344521-34', 12550.0, 'Flavio Bastos');
+INSERT INTO tb_user (birth_date, children, cpf, income, name) VALUES ('1963-05-18', 0, '093452654-92', 22250.0, 'Alexandre Barea');
+INSERT INTO tb_user (birth_date, children, cpf, income, name) VALUES ('1969-09-10', 0, '902484121-23', 18250.0, 'Charles Master');
+INSERT INTO tb_user (birth_date, children, cpf, income, name) VALUES ('1995-06-14', 3, '034521948-18', 7890.0, 'Bebeco Garcia');
